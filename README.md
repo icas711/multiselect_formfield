@@ -1,16 +1,5 @@
 # multiselect_formfield
 
-A new Flutter project.
+Мультиселект
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Screen_recording_20240709_213217.webm](https://github.com/icas711/multiselect_formfield/assets/50333299/c6654766-a680-49b1-a5f5-59d0748d8d61)
